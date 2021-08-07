@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*Header ============*/
+
+header {
+    margin: 0 auto;
+    padding: 40px;
+    background: #000000;
+}
+
+.logo img {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 575px;
+    top: -40px;
+    margin: 0 auto;
+}
+
+
+nav { 
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.id {
+    text-decoration: none;
+    color: white;
+    margin: 14px;
+}
+
+.menu {
+/* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    background-color: #8257E5;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/*Hero =======*/
+
+img {
+    width: 1263px;
+    background: linear-gradient(rgba (0, 0, .50), rgba(0, 0, 0, .50)100%), url('img/pexels-tima-miroshnichenko-5702300.jpg');
+}
+
+h1 {
+    width: 823px;
+    height: 198px;
+    left: 163px;
+    top: 294px;
+    
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 104px;
+    line-height: 95%;
+    margin: -400px 138px 300px;
+    -ms-word-break: break-all;
+    color: white;
+}
+
+span {
+    color: #8257E5;
+}
+
+/*Main =========*/
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+p {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    margin: 0 250px 0 0;
+    line-height: 121%;
+    /* or 39px */
+
+    text-align: justify;
+    letter-spacing: 0.06em;
+    display: block;
+}
+
+h2 {
+    font-family: 'Bebas Neue';
+    color: #8257E5;
+    font-size: 72px;
+}
+
+.quem-somos {
+    width: 1135px;
+    height: 539px;
+    left: 152px;
+    top: 826px;
+    display: inline;
+}
+
+.woman {
+    width: 350px;
+    margin: -700px 0 0 750px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Montserrat';
+
+}
+
+.curso:hover {
+    color: #8257E5;
+}
+
+footer {
+    background: #ECECEC;
+    margin: 60px 0 0 0; 
+    padding: 30px;
+    text-align: center;
+
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    font-weight: 400;
+    color: #8257E5;
+    font-style: italic;
+}
