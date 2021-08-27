@@ -1,2 +1,2 @@
-# exercicios-proa
-Exercícios em HTML e CSS - Professor Guilherme Bodra (Equipe 1)
+# Exercicios-proa
+Exercícios em HTML, CSS e Javascript - Professor Guilherme Bodra (Equipe 1)
