@@ -1,0 +1,54 @@
+body {
+    font-family: 'Urbanist', sans-serif !important;
+    @font-face {
+        font-family: ;
+        src: url();
+    }
+}
+
+
+.row {
+    /*--bs-gutter-x: 0 !important;*/
+    max-width: 100%;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    backdrop-filter: saturate(180%) blur(20px);
+    height: 45px;
+    width: 100%;
+    position: fixed;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    top: 0;
+}
+
+section {
+    display: block;
+    margin-top: 45px;
+}
+
+ul.navbar-nav {
+    width: 1000px !important;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.title {
+    font-weight: bolder !important;
+    font-size: 4rem !important;
+}
+
+.apple-at-work {
+    width: 100%!important;
+
+}
+
+.billy {
+    background-color: #ccbbb3;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
