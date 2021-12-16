@@ -1,2 +1,2 @@
 # Exercicios-proa
-Exercícios em HTML, CSS e Javascript - Professor Guilherme Bodra (Equipe 1)
+Exercícios em HTML, CSS, Javascript e React.js - Professor Guilherme Bodra (Equipe 1).
