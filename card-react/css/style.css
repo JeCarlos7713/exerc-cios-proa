@@ -1,0 +1,101 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color:hsl(0, 0%, 25%);
+}
+
+
+.sony {
+    display: flex;
+    justify-content: right;
+    height: 6vh;        
+}
+
+.bg-info {
+    background-color: hsl(214, 100%, 31%) !important;
+}
+
+.logo {
+    width: 7vw;
+    margin-right: 0.7em;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 10vh;
+    
+}
+
+.menu-left {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    height: 100%;
+
+    font-size: 0.9rem !important;
+
+    padding-left: 0.7em !important;
+}
+
+.logo-menu {
+    height: 7vh;
+    margin-left: 1em;
+}
+
+.itens-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+    color: gray;
+}
+
+
+li:hover {
+    color: hsl(214, 100%, 31%) !important;
+}
+
+
+.menu-right {
+    padding-right: 0.7em !important;
+}
+
+.botao {
+    margin-right: 1em;
+
+    border: none;
+    border-radius: 1em;
+    width: 9vw;
+    
+    background-color: hsl(0, 0%, 25%);
+    color: #f2f2f2;
+}
+
+.botao:hover {
+    background-color: hsl(0, 0%, 38%);
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.image-hero {
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    border-color: white !important;
+}
