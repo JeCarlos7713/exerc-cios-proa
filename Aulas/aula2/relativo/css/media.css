@@ -1,0 +1,58 @@
+@media screen and (min-width: 780px) {
+    main {
+        max-width: 900px;
+    }
+
+    header {
+        background-color: chocolate;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 779px) {
+    main {
+        max-width: 100%;
+        height: auto;
+    }
+
+    header {
+        width: 100%;
+        height: 200px;
+    }
+
+    section {
+        width: 100%;
+    }
+
+    aside {
+        display: none;
+    }
+
+    article {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    main {
+        max-width: 100%;
+        height: auto;
+    }
+
+    header {
+        width: 100%;
+        height: 200px;
+        background-color: darkred;
+    }
+
+    section {
+        width: 100%;
+    }
+
+    aside {
+        display: none;
+    }
+
+    article {
+        width: 100%;
+    }
+}
